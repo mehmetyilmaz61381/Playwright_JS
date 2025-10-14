@@ -58,4 +58,5 @@ module.exports = {
   linkedInLink: "text=LinkedIn",
   removeButton: "[data-test='remove-sauce-labs-backpack']",
   addtoCartBtnAll: "button.btn.btn_primary.btn_small.btn_inventory",
+  
 };
