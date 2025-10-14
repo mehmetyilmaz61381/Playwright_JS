@@ -253,10 +253,9 @@ test.describe.serial("Verify All Social Channel Links", () => {
     const link = page.locator(twitterLink);
     const [newPage] = await Promise.all([
       context.waitForEvent("page"),
-      await link.click(),
+       link.click(),
     ]);
-    await newPage.waitForLoadState("domcontentloaded");
-    await newPage.waitForLoadState("networkidle");
+    await newPage.waitForLoadState("load");
     expect(newPage.url()).toBe(twitterUrl);
   });
 });

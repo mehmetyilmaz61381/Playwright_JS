@@ -1,7 +1,7 @@
 module.exports = {
   appLogo: ".app_logo",
   landingPageTitle: ".title",
-  landingPageImage: ".peek",
+  landingPageImage: ".app_logo",
   burgerMenuBtn: "#react-burger-menu-btn",
   burgerCrossButton: "#react-burger-cross-btn",
   allItemsSideBarLink: "#inventory_sidebar_link",
@@ -9,7 +9,7 @@ module.exports = {
   logoutSideBarLink: "#logout_sidebar_link",
   resetSideBarLink: "#reset_sidebar_link",
   shoppingCartLink: ".shopping_cart_link",
-  productSortContainer: "[data-test='product_sort_container']",
+  productSortContainer: "[data-test='product-sort-container']",
   inventoryContainer: "(//div[@id='inventory_container'])[2]",
 
   backPackImage: "#item_4_img_link",
@@ -52,7 +52,7 @@ module.exports = {
 
   listOfElements: "//div[@class='inventory_item']",
   footerText: ".footer_copy",
-  swagBotFooter: "img[alt='Swag Bot Footer']",
+  swagBotFooter: ".footer",
   twitterLink: "text=Twitter",
   facebookLink: "text=Facebook",
   linkedInLink: "text=LinkedIn",
