@@ -1,0 +1,285 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e6]:
+    - paragraph [ref=e8]: "Real talk: How agentic AI is changing software testing today"
+    - link "Get the data" [ref=e10] [cursor=pointer]:
+      - /url: https://saucelabs.com/resources/report/agentic-ai-survey-in-software-testing
+      - generic [ref=e11]: Get the data
+      - img [ref=e12]
+    - paragraph [ref=e16] [cursor=pointer]: x
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - heading "Build apps users love with AI-driven quality" [level=1] [ref=e24]
+      - generic [ref=e25]:
+        - paragraph [ref=e28]: Power your mobile and web apps at scale with the most comprehensive solution for software quality. Test, release, and innovate confidently with AI-driven quality grounded in real data.
+        - generic [ref=e30]:
+          - link "Sign up for free" [ref=e32] [cursor=pointer]:
+            - /url: https://signup.saucelabs.com/
+            - button "Sign up for free" [ref=e33]
+          - link "Book a demo" [ref=e35] [cursor=pointer]:
+            - /url: https://saucelabs.com/request-demo
+            - button "Book a demo" [ref=e36]
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e39]: 8+bn
+        - generic [ref=e40]: TESTS EXECUTED
+      - generic [ref=e41]:
+        - generic [ref=e42]: 300k
+        - generic [ref=e43]: ACTIVE USERS
+      - generic [ref=e44]:
+        - generic [ref=e45]: 9000+
+        - generic [ref=e46]: REAL DEVICES
+      - generic [ref=e47]:
+        - generic [ref=e48]: 2500+
+        - generic [ref=e49]: EMUSIMS AND BROWSER/OSES
+  - generic [ref=e51]:
+    - generic [ref=e52]: Built by founders of Selenium, trusted by enterprise developers
+    - generic [ref=e56]:
+      - img [ref=e59]
+      - img [ref=e62]
+      - img [ref=e65]
+      - img [ref=e68]
+      - img [ref=e71]
+      - img [ref=e74]
+      - img [ref=e77]
+      - img [ref=e80]
+      - img [ref=e83]
+      - img [ref=e86]
+      - img [ref=e89]
+      - img [ref=e92]
+      - img [ref=e95]
+      - img [ref=e98]
+      - img [ref=e101]
+      - img [ref=e104]
+      - img [ref=e107]
+      - img [ref=e110]
+      - img [ref=e113]
+      - img [ref=e116]
+      - img [ref=e119]
+      - img [ref=e122]
+      - img [ref=e125]
+      - img [ref=e128]
+      - img [ref=e131]
+      - img [ref=e134]
+      - img [ref=e137]
+      - img [ref=e140]
+      - img [ref=e143]
+      - img [ref=e146]
+      - img [ref=e149]
+      - img [ref=e152]
+      - img [ref=e155]
+      - img [ref=e158]
+      - img [ref=e161]
+      - img [ref=e164]
+      - img [ref=e167]
+      - img [ref=e170]
+      - img [ref=e173]
+      - img [ref=e176]
+      - img [ref=e179]
+      - img [ref=e182]
+  - generic [ref=e188]:
+    - generic [ref=e191]:
+      - img "Low content" [ref=e197]
+      - generic [ref=e199]:
+        - heading "ENTERPRISE-READY. AI-DRIVEN. ONE UNIFIED VIEW." [level=3] [ref=e201]
+        - heading "One Platform for Continuous Quality" [level=2] [ref=e203]
+        - paragraph [ref=e205]: Ensure quality at every stage of development with AI-powered insights. Access the widest selection of real devices, virtual emulators and simulators, and browsers/OS support, plus streamlined app distribution and error reporting—all in one powerful platform.
+    - generic [ref=e208]:
+      - generic [ref=e210]:
+        - button "AI-Powered Insights" [ref=e211] [cursor=pointer]
+        - button "Mobile App Testing" [ref=e212] [cursor=pointer]
+        - button "Web Testing" [ref=e213] [cursor=pointer]
+        - button "Mobile App Distribution" [ref=e214] [cursor=pointer]
+        - button "Error Reporting" [ref=e215] [cursor=pointer]
+        - button "Visual Testing" [ref=e216] [cursor=pointer]
+      - generic [ref=e218]:
+        - generic [ref=e221]:
+          - generic [ref=e222]:
+            - heading "Visual Testing" [level=5] [ref=e224]
+            - generic [ref=e225]: Automate UI testing to catch visual issues early. Integrated into the Sauce Platform, it ensures pixel-perfect experiences and faster, high-quality releases.
+          - link "Learn more about Visual Testing" [ref=e227] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/visual-testing
+            - generic [ref=e228]:
+              - generic [ref=e230]: Learn more about Visual Testing
+              - img [ref=e232]
+        - generic [ref=e238]:
+          - generic [ref=e239]:
+            - heading "AI-Powered Insights" [level=5] [ref=e241]
+            - generic [ref=e242]: Transform billions of raw data points into actionable insights. AI-powered Insights delivers real-time analytics and visibility so teams can track performance, act quickly, and deliver quality apps faster than ever.
+          - link "Learn more about AI-Powered Insights" [ref=e244] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/sauce-insights
+            - generic [ref=e245]:
+              - generic [ref=e247]: Learn more about AI-Powered Insights
+              - img [ref=e249]
+        - generic [ref=e255]:
+          - generic [ref=e256]:
+            - heading "Mobile App Testing" [level=5] [ref=e258]
+            - generic [ref=e259]: Release high-quality apps without the headache of managing infrastructure. Test on thousands of real and virtual devices anytime, anywhere - to ensure quality experiences across every mobile platform.
+          - link "Learn more about Mobile App Testing" [ref=e261] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/mobile-testing
+            - generic [ref=e262]:
+              - generic [ref=e264]: Learn more about Mobile App Testing
+              - img [ref=e266]
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - heading "Web Testing" [level=5] [ref=e275]
+            - generic [ref=e276]: Accelerate test automation with the most scalable and robust infrastructure. Run thousands of parallel tests using your preferred strategy and framework, backed by industry-leading expertise.
+          - link "Learn more about Web Testing" [ref=e278] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/cross-browser-testing
+            - generic [ref=e279]:
+              - generic [ref=e281]: Learn more about Web Testing
+              - img [ref=e283]
+        - generic [ref=e289]:
+          - generic [ref=e290]:
+            - heading "Mobile App Distribution" [level=5] [ref=e292]
+            - generic [ref=e293]: Distribute Android and iOS apps on a secure, enterprise-grade platform. Gather user insights, streamline beta testing, and control access to accelerate development while reducing risks.
+          - link "Learn more about Mobile App Distribution" [ref=e295] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/mobile-testing/app-betas
+            - generic [ref=e296]:
+              - generic [ref=e298]: Learn more about Mobile App Distribution
+              - img [ref=e300]
+        - generic [ref=e306]:
+          - generic [ref=e307]:
+            - heading "Error Reporting" [level=5] [ref=e309]
+            - generic [ref=e310]: Find and fix crashes up to 50% faster. Get early warnings for production errors and improve team collaboration, accelerating innovation and overall software quality.
+          - link "Learn more about Error Reporting" [ref=e312] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/error-reporting
+            - generic [ref=e313]:
+              - generic [ref=e315]: Learn more about Error Reporting
+              - img [ref=e317]
+        - generic [ref=e323]:
+          - generic [ref=e324]:
+            - heading "Visual Testing" [level=5] [ref=e326]
+            - generic [ref=e327]: Automate UI testing to catch visual issues early. Integrated into the Sauce Platform, it ensures pixel-perfect experiences and faster, high-quality releases.
+          - link "Learn more about Visual Testing" [ref=e329] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/visual-testing
+            - generic [ref=e330]:
+              - generic [ref=e332]: Learn more about Visual Testing
+              - img [ref=e334]
+        - generic [ref=e340]:
+          - generic [ref=e341]:
+            - heading "AI-Powered Insights" [level=5] [ref=e343]
+            - generic [ref=e344]: Transform billions of raw data points into actionable insights. AI-powered Insights delivers real-time analytics and visibility so teams can track performance, act quickly, and deliver quality apps faster than ever.
+          - link "Learn more about AI-Powered Insights" [ref=e346] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/sauce-insights
+            - generic [ref=e347]:
+              - generic [ref=e349]: Learn more about AI-Powered Insights
+              - img [ref=e351]
+  - generic [ref=e359]:
+    - generic [ref=e363]:
+      - img "Why our customers love Sauce Labs" [ref=e369]
+      - generic [ref=e371]:
+        - heading "CASE STUDIES" [level=3] [ref=e373]
+        - heading "The secret sauce behind every great app" [level=2] [ref=e375]
+        - paragraph [ref=e377]: Discover how leading brands deliver high-quality digital experiences with Sauce Labs.
+    - generic [ref=e381]:
+      - generic [ref=e383]:
+        - generic [ref=e384]:
+          - img "quote" [ref=e386]
+          - generic [ref=e387]:
+            - img "Walmart Logo" [ref=e391]
+            - generic [ref=e392]:
+              - separator [ref=e393]
+              - generic [ref=e394]:
+                - paragraph [ref=e395]: Pranav Verma
+                - paragraph [ref=e396]: Sr Engineering Manager
+        - paragraph [ref=e397]: “Thanks to Sauce Labs, we are able to ensure that our apps work on over 700 browser/ OS combinations, 172 device emulators and over 300 unique real devices.”
+        - link "Read the Case Study" [ref=e398] [cursor=pointer]:
+          - /url: https://saucelabs.com/resources/case-studies/walmart-embraces-test-automation-and-open-source-to-increase-coverage-and-deploy-more-often
+          - generic [ref=e399]:
+            - generic [ref=e401]: Read the Case Study
+            - img [ref=e403]
+      - generic [ref=e406]:
+        - generic [ref=e407]:
+          - img "quote" [ref=e409]
+          - generic [ref=e410]:
+            - img "KW Logo" [ref=e414]
+            - generic [ref=e415]:
+              - separator [ref=e416]
+              - generic [ref=e417]:
+                - paragraph [ref=e418]: Ray Maldano
+                - paragraph [ref=e419]: Senior Engineering Manager
+        - paragraph [ref=e420]: “With Sauce Labs, we can test all of the platform combinations we know are being used by agents and homeowners in the market so that every person can connect and find their dream home effortlessly.”
+        - link "Read the Case Study" [ref=e421] [cursor=pointer]:
+          - /url: https://saucelabs.com/resources/case-studies/how-keller-williams-accelerated-their-release-cycles-with-sauce-labs
+          - generic [ref=e422]:
+            - generic [ref=e424]: Read the Case Study
+            - img [ref=e426]
+      - generic [ref=e429]:
+        - generic [ref=e430]:
+          - img "quote" [ref=e432]
+          - generic [ref=e433]:
+            - img "eMoney Logo" [ref=e437]
+            - generic [ref=e438]:
+              - separator [ref=e439]
+              - generic [ref=e440]:
+                - paragraph [ref=e441]: Chuan Au
+                - paragraph [ref=e442]: VP of Quality Assurance
+        - paragraph [ref=e443]: “Sauce Labs is the one-stop shop for all our software quality needs.”
+        - link "Read the Case Study" [ref=e444] [cursor=pointer]:
+          - /url: https://saucelabs.com/resources/case-studies/emoney-advisor-mobile-cross-browser-and-visual-testing-sauce-labs
+          - generic [ref=e445]:
+            - generic [ref=e447]: Read the Case Study
+            - img [ref=e449]
+      - generic [ref=e452]:
+        - generic [ref=e453]:
+          - img "quote" [ref=e455]
+          - generic [ref=e456]:
+            - img "Indeed Logo" [ref=e460]
+            - generic [ref=e461]:
+              - separator [ref=e462]
+              - generic [ref=e463]:
+                - paragraph [ref=e464]: Maxim Stognev
+                - paragraph [ref=e465]: Staff Mobile Engineer
+        - paragraph [ref=e466]: “Sauce Labs has helped us take a massively data-driven approach to quality in our CI/CD pipelines… extending our test suite and doubling unit test coverage to deliver new functionality to customers.”
+        - link "Read the Case Study" [ref=e467] [cursor=pointer]:
+          - /url: https://saucelabs.com/resources/case-studies/indeed-flex-launch-quality-transformation
+          - generic [ref=e468]:
+            - generic [ref=e470]: Read the Case Study
+            - img [ref=e472]
+  - generic [ref=e505]:
+    - heading "Integrate & Setup" [level=3] [ref=e507]
+    - heading "Sauce Labs + Your Go-To Automation Tools" [level=2] [ref=e508]
+    - generic [ref=e509]: Easily connect with your favorite CI/CD platforms to streamline and accelerate your automation workflows.
+    - link "Learn more about integrations arrow icon" [ref=e510] [cursor=pointer]:
+      - /url: https://saucelabs.com/products/integrations-and-plugins
+      - button "Learn more about integrations arrow icon" [ref=e511]:
+        - text: Learn more about integrations
+        - img "arrow icon" [ref=e513]
+  - generic [ref=e533]:
+    - generic [ref=e537]:
+      - img [ref=e543]
+      - generic [ref=e545]:
+        - heading "Ready to Start Testing? Try It Free." [level=2] [ref=e547]
+        - paragraph [ref=e549]: Set up in minutes and run your first test today.
+        - link "Sign up for free" [ref=e553] [cursor=pointer]:
+          - /url: https://signup.saucelabs.com/
+          - button "Sign up for free" [ref=e554]
+    - img [ref=e556]
+  - img [ref=e563]
+  - generic [ref=e566]:
+    - generic [ref=e567]:
+      - generic [ref=e568]:
+        - link "Twitter" [ref=e570] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+          - img "Twitter" [ref=e572]
+        - link "Facebook" [ref=e574] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs/
+          - img "Facebook" [ref=e576]
+        - link "LinkedIn" [ref=e578] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+          - img "LinkedIn" [ref=e580]
+      - generic [ref=e581]:
+        - link "Terms of Service" [ref=e583] [cursor=pointer]:
+          - /url: /doc/terms-of-service
+        - link "Privacy Policy" [ref=e585] [cursor=pointer]:
+          - /url: /doc/privacy-policy
+        - link "EEA" [ref=e587] [cursor=pointer]:
+          - /url: /doc/eea
+        - link "CCPA" [ref=e589] [cursor=pointer]:
+          - /url: /doc/ccpa
+        - generic [ref=e593]: Cookie Settings
+    - generic [ref=e594]: © 2025 Sauce Labs Inc., all rights reserved. SAUCE and SAUCE LABS are registered trademarks owned by Sauce Labs Inc. in the United States, EU, and may be registered in other jurisdictions.
+```
