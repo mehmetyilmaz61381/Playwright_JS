@@ -81,7 +81,7 @@ test.describe(
       await test.step(
         `Click on Add to Cart button on Product Details page and verify shopping cart is updated to "1" item`,
         async () => {
-          await productDetailsPage.clickAddToCartButton();
+          await productDetailsPage.clickAddToCartButton1();
           await productDetailsPage.shoppingCartCount();
         }
       );

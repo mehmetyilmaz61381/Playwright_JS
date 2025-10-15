@@ -17,6 +17,7 @@ const {
   productDescription,
   productPrice,
   addToCartButton,
+  addToCartButton1,
   removeButton,
 } = require("../pageobjects/productDetailsPage");
 
@@ -80,6 +81,10 @@ class ProductDetailsPage extends BasePage {
     return await this.waitAndClick(addToCartButton);
   }
 
+  async clickAddToCartButton1() {
+    await this.isElementEnabled(addToCartButton1, testData.notEnabledText);
+    return await this.waitAndClick(addToCartButton1);
+  }
   async clickRemoveButton() {
     await this.isElementEnabled(removeButton, testData.notEnabledText);
     return await this.waitAndClick(removeButton);

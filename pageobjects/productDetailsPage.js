@@ -5,5 +5,6 @@ module.exports = {
   productDescription: ".inventory_details_desc.large_size",
   productPrice: ".inventory_details_price",
   addToCartButton: "[data-test=\"add-to-cart\"]",
+  addToCartButton1: "[data-test=\"add-to-cart-sauce-labs-backpack\"]",
   removeButton: "[data-test='remove']",
 };
