@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","4012","Login to App as a standard user","chromium","Tue Oct 14 20:37:25 CEST 2025","failed","Tue Oct 14 20:37:29 CEST 2025","Login as a standard user to complete the checkout workflow","02_checkoutWorkflow.test.js","",""
+"","17786","Login to App as a standard user","chromium","Wed Oct 15 15:56:00 CEST 2025","passed","Wed Oct 15 15:56:17 CEST 2025","Login as a Standard User to select a product item and then complete the checkout workflow with Performance Glitch User","03_checkoutWithSUandPGU.test.js","",""
