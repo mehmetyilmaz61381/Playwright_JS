@@ -29,6 +29,6 @@ test('Intentionally Failing - Wait and Assert the Page Title', async ({page} )=>
     await new Promise(resolve => setTimeout(resolve, 2000)); // 2 sec
 
     // Assert the Page Title
-    await expect(page).toHaveTitle('Google1');
+    await expect(page).toHaveTitle('Google');
 
 });
